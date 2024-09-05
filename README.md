@@ -1,4 +1,4 @@
-## My name is Eduardo 👋
+## Olá, meu nome é Eduardo 👋
 Atualmente aprendendo html,css e javascript
 
 ## Ferramentas e Tecnologias
